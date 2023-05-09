@@ -6,6 +6,7 @@ const MUSTACHE_MAIN_DIR = './main.mustache';
   * DATA is the object that contains all
   * the data to be provided to Mustache
   * Notice the "name" and "date" property.
+  *  // run: node index.js   to update content
 */
 let DATA = {
   name: 'Yeeyson',
