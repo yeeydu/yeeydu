@@ -3,7 +3,7 @@
     Hello!
  </h1>
  <p>
-    My name is Yeeyson and today is Wednesday, 23 August 2023
+    My name is Yeeyson and today is Thursday, 24 August 2023
     Thanks for visiting my profile, I have some test projects going on others are done learning projects and others are real projects.
     Feel free to watch and use them.
  </p>
