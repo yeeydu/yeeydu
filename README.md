@@ -3,7 +3,7 @@
     Hello!
  </h1>
  <p>
-    My name is Yeeyson and today is Saturday, 1 June 2024
+    My name is Yeeyson and today is Sunday, 2 June 2024
     Thanks for visiting my profile, I have some test projects going on others are done learning projects and others are real projects.
     Feel free to watch and use them.
  </p>
