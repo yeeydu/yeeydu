@@ -3,7 +3,7 @@
     Hello!
  </h1>
  <p>
-    My name is Yeeyson and today is Monday, 24 February 2025
+    My name is Yeeyson and today is Tuesday, 25 February 2025
     Thanks for visiting my profile, I have some test projects going on others are done learning projects and others are real projects.
     Feel free to watch and use them.
  </p>
